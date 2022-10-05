@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin&family=Kanit:wght@300&family=Outfit:wght@300&display=swap");
+
+
+#nav{
+    .itens {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 3%;
+        font-family: "Cabin", sans-serif;
+        align-items: center;
+        margin-top: 2%;
+        margin-bottom: 2%;
+      }
+
+      .but-nav {
+        padding: 10px;
+      }
+      .but-nav img {
+        width: 16%;
+        cursor: pointer;
+      }
+      
+      .titulo-nav {
+        font-weight: 600;
+        font-size: 26px;
+        font-family: "cabin";
+        align-items: center;
+       margin-top: 1%;
+        
+      }
+      
+      .titulo-nav::before {
+        content: "★";
+        padding-right: 3%;
+      }
+
+
+
+
+}

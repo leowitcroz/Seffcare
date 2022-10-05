@@ -1,0 +1,20 @@
+#produtos{
+    border-bottom: 0.2px solid #A5A1A1;
+  
+    .promo{
+        font-size: 20px;
+        font-weight: bold;
+        align-items: center;
+        margin-top: 30px;
+        margin-left: 8%;
+        margin-bottom: 30px;
+    }
+    .numero{
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 30px;
+        margin-right: 10%;
+        justify-content: right;
+        display: flex;
+    }
+}
