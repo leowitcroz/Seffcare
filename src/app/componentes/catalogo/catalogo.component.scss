@@ -37,7 +37,20 @@
   #catalogo {
     .produto {
       width: 50%;
-      
+      .titulo {
+        font-size: 14px;
+        font-weight: 600;
+        margin-top: 15px;
+        margin-right: 0%;
+        margin-bottom: 0;
+      }
+      .valor {
+        margin-right: 33%;
+        font-size: 21px;
+        color: #5ca720;
+        font-weight: 600;
+      }
+
       .img {
         width: 78%;
         height: 46%;
